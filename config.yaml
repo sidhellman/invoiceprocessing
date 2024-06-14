@@ -1,0 +1,3 @@
+ollama:
+  host: '<your_ollama_host'
+  model: '<your model>'
